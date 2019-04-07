@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="resistor_colour_code_ohm">
+        <item>Schwarz 0</item>
+        <item>Braun 1</item>
+        <item>Rot 2</item>
+        <item>Orange 3</item>
+        <item>Gelb 4</item>
+        <item>Grün 5</item>
+        <item>Blau 6</item>
+        <item>Violett 7</item>
+        <item>Grau 8</item>
+        <item>Weiß 9</item>
+    </string-array>
+    <string-array name="resistor_colour_code_multiplier">
+        <item>Schwarz × 1 Ω</item>
+        <item>Braun × 10 Ω</item>
+        <item>Rot × 100 Ω</item>
+        <item>Orange × 1 kΩ</item>
+        <item>Gelb × 10 kΩ</item>
+        <item>Grün × 100 kΩ</item>
+        <item>Blau × 1 MΩ</item>
+        <item>Violett × 10 MΩ</item>
+        <item>Grau × 100 MΩ</item>
+        <item>Weiß × 1 GΩ</item>
+        <item>Gold × 0,1 Ω</item>
+        <item>Silber *  0,01 Ω</item>
+    </string-array>
+    <string-array name="resistor_colour_code_tolerance">
+        <item>Braun ±1 %</item>
+        <item>Rot ±2 %</item>
+        <item>Grün ±0,5 %</item>
+        <item>Blau ±0,25 %</item>
+        <item>Violett ±0,1 %</item>
+        <item>Grau ±0,05 %</item>
+        <item>Gold ±5 %</item>
+        <item>Silber ±10 %</item>
+    </string-array>
+    <string-array name="resistor_colour_code_TemperatureCoefficient">
+        <item>Braun 100 ppm</item>
+        <item>Rot 50 ppm</item>
+        <item>Orange 15 ppm</item>
+        <item>Gelb 25 ppm</item>
+        <item>Blau 10 ppm</item>
+        <item>Violett 5 ppm</item>
+    </string-array>
+</resources>

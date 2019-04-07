@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ResCalc3</string>
+    <string name="please_select">bitte_auswählen</string>
+    <string name="calc">Berechnen</string>
+    <string name="ring1">1. Ring</string>
+    <string name="ring2">2. Ring</string>
+    <string name="ring3">3. Ring</string>
+    <string name="ring_nmultipliakator4">4. Ring\nMultipliakator</string>
+    <string name="ring5">5. Ring\nToleranz</string>
+    <string name="ring6">6. Ring\nTemperatur-\nkoeffizient</string>
+    <string name="resistance">Widerstand:</string>
+    <string name="tolerance">Toleranz:</string>
+    <string name="ppm">Temperaturkoeffizient:</string>
+</resources>
