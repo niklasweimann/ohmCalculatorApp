@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-public class MainActivity extends Activity {
+public class ResCalc03Activity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
